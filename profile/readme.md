@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150px" src="https://raw.githubusercontent.com/CrystalNetwork-dev/.github/main/profile/crystal_networktest%20(1).png">
+<img height="350px" src="https://raw.githubusercontent.com/CrystalNetwork-dev/.github/main/profile/crystal_networktest%20(1).png">
 </div>
 
 <div align="center">
