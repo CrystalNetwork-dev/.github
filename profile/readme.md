@@ -10,7 +10,7 @@
 
 ## About Us
 Crystal Network is a Unblocker development team with a goal to create easy to use, good looking, and good quality unblockers. 
-Crystal Network is simillar to projects like Nebula Developer Labs, TN, etc etc...
+Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc...
 
 ## Projects
 ### Finished
