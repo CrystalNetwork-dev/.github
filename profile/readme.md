@@ -29,4 +29,5 @@ Crystal Network is simillar to projects like Nebula Developer Labs, TN, etc etc.
 - <code>Scarat3k</code> - Lead Developer and Owner
 - <code>Madjik</code> - Developer
 - <code>Ethonic</code> - Developer
+- <code>Colacraft</code> - Developer
 - <code>Nitelite</code> - UI/UX Designer
