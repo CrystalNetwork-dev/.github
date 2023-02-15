@@ -27,6 +27,6 @@ Crystal Network is simillar to projects like Nebula Developer Labs, TN, etc etc.
 
 ## Members
 - Scarat3k - Lead Developer and Owenr
-- Madjik [Awating Invite Acceptance] - Developer
+- Madjik - Developer
 - Ethonic - Developer
 - Nitelite - UI/UX Designer
