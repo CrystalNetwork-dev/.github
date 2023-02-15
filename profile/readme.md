@@ -30,4 +30,5 @@ Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc..
 - <code>Madjik</code> - Developer
 - <code>Ethonic</code> - Developer
 - <code>Colacraft</code> - Developer
+- <code>Rift</code> - Developer
 - <code>Nitelite</code> - UI/UX Designer
