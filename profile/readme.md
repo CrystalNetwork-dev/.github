@@ -1,8 +1,8 @@
 <div align="center">
-# Crystal Network
+<h1>Crystal Network<h1>
+  <p><strike>Yet Another TN Ripoff</p></strike>
+  <p>A Non Skiddy Unblocker Development Team</p>
 </div>
-~~Yet Another TN Ripoff~~\
-A Not Skiddy Unblocker Development Team
 
 ## About Us
 
