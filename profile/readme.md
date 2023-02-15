@@ -1,3 +1,3 @@
 # Crystal Network
 ~~Yet Another TN Ripoff~~\
-A Not Skiddy Unbocker Development Team
+A Not Skiddy Unblocker Development Team
