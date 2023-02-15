@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1 align="center">Crystal Network</h1>
+  <h1 align="center">Crystal Network</h1>
   <p align="center"><strike>Yet Another TN Ripoff</strike></p>
 <p align="center">A Non Skiddy Unblocker Development Team Focused On Making Good Quality Unblockers</p>
 </div>
@@ -26,7 +26,7 @@ Crystal Network is simillar to projects like Nebula Developer Labs, TN, etc etc.
 - 
 
 ## Members
-- Scarat3k - Lead Developer and Owenr
-- Madjik [Awating Invite Acceptance] - Developer
-- Ethonic - Developer
-- Nitelite - UI/UX Designer
+- <code>Scarat3k</code> - Lead Developer and Owner
+- <code>Madjik</code> - Developer
+- <code>Ethonic</code> - Developer
+- <code>Nitelite</code> - UI/UX Designer
