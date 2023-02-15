@@ -11,5 +11,15 @@
 ## About Us
 
 ## Projects
+### Finished
+- N/a
+### In Development
+- N/a
+### In Concept
+- 
 
 ## Members
+- Scarat3k - Lead Developer and Owenr
+- Madjik [Awating Invite Acceptance] - Developer
+- Ethonic - Developer
+- Nitelite - UI/UX Designer
