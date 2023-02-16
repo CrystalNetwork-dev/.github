@@ -25,6 +25,7 @@ Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc..
 - Skyhigh - Yet Another TompHTTP Webproxy
 - Tabular - Hypertabs Clone
 - Megaindego - #1 Unblocker (real)
+- TompKS - A TompHTTP Webproxy Kickstarter
 
 ## Members
 - <code>Scarat3k</code> - Lead Developer and Owner
