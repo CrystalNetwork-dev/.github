@@ -18,7 +18,6 @@ Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc..
 ### In Development
 - Termite - A Webproxy But In A Terminal So Skids Cant Use
 - Ultrasana - [P.O.C] Combining Osana And UV
-- Skyhigh - Yet Another TompHTTP Webproxy
 ### In Concept
 - Proxifly - Top Tier Unblocker
 - Jemity - Gfiles With UI
@@ -26,6 +25,7 @@ Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc..
 - Tabular - Hypertabs Clone
 - Megaindego - #1 Unblocker (real)
 - TompKS - A TompHTTP Webproxy Kickstarter
+- Skyhigh - Yet Another TompHTTP Webproxy
 
 ## Members
 - <code>Scarat3k</code> - Lead Developer and Owner
