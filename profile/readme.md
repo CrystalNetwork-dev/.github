@@ -12,12 +12,19 @@
 Crystal Network is a Unblocker development team with a goal to create easy to use, good looking, and good quality unblockers. 
 Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc...
 
+## Links
+Here Are Some Demo Links To Try Out Some Of Are Products
+- [N/A] https://ilymajikun.live - Proxifly
+- [N/A] https://crystalnetworkis.live - Termite
+- [N/A] https://crystalnetwork.me - Ruby
+
 ## Projects
 ### Finished
 - N/a
 ### In Development
 - Termite - A Webproxy But In A Terminal So Skids Cant Use
 - Ultrasana - [P.O.C] Combining Osana And UV
+- Quartz - Crystal Network Assets Designed To Help You Make Unblockers
 ### In Concept
 - Proxifly - Top Tier Unblocker
 - Jemity - Gfiles With UI
@@ -26,6 +33,7 @@ Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc..
 - Megaindego - #1 Unblocker (real)
 - TompKS - A TompHTTP Webproxy Kickstarter
 - Skyhigh - Yet Another TompHTTP Webproxy
+- Ruby - The Offical Homepage For Crystal Network. Like Oxide
 
 ## Members
 - <code>Scarat3k</code> - Lead Developer and Owner
