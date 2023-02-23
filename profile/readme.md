@@ -25,6 +25,7 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - Termite - A Webproxy But In A Terminal So Skids Cant Use
 - Ultrasana - [P.O.C] Combining Osana And UV
 - Quartz - Crystal Network Assets Designed To Help You Make Unblockers
+- Hyrule - Unblocked Browser Made With Unreal Engine??
 ### In Concept
 - Proxifly - Top Tier Unblocker
 - Jemity - Gfiles With UI
@@ -34,6 +35,7 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - TompKS - A TompHTTP Webproxy Kickstarter
 - Skyhigh - Yet Another TompHTTP Webproxy
 - Ruby - The Offical Homepage For Crystal Network. Like Oxide
+- Crystal Lite - Lightweight Debian OS That Runs Chrome Via EMSCript
 
 ## Members
 - [Scarat3k](https://github.com/scaratek) - Lead Developer and Owner
