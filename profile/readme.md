@@ -36,9 +36,12 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - Ruby - The Offical Homepage For Crystal Network. Like Oxide
 
 ## Members
-- <code>Scarat3k</code> - Lead Developer and Owner
-- <code>Madjik</code> - Developer
-- <code>Ethonic</code> - Developer
-- <code>Colacraft</code> - Developer
-- <code>Riftriot</code> - Developer
-- <code>Nitelite</code> - UI/UX Designer
+- [Scarat3k](https://github.com/scaratek) - Lead Developer and Owner
+  - [My Website :D](https://scatat3k.me)
+- [Majikun](https://github.com/madjikdotpng) - Developer
+  - [My Website :D](https://madjikware.tech)
+- [Ethonic](https://github.com/ethonicdev) - Developer
+  - [My Website :D](ethonic.ga)
+- [Colacraft](https://github.com/co1acraft) - Developer
+- [Riftriot](https://github.com/riftriot) - Developer
+- [Nitelite](https://github.com/lappyxd) - UI/UX Designer
