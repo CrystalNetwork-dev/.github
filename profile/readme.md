@@ -33,7 +33,7 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - Tabular - Hypertabs Clone
 - Skyhigh - Yet Another TompHTTP Webproxy
 - Reflection - A Webproxy Made With The Areo SDK
-- Crystal-Proxis - A For Of [Proxis](https://github.com/crystalnetwork-devtools/proxis) With Skyhigh And Reflection
+- Crystal-Proxis - A Fork Of [Proxis](https://github.com/crystalnetwork-devtools/proxis) With Skyhigh And Reflection
 
 ## Members
 - [Scarat3k](https://github.com/scaratek) - Lead Developer and Owner
