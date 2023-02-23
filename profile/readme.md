@@ -23,8 +23,6 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - N/a
 ### In Development
 - Termite - A Webproxy But In A Terminal So Skids Cant Use
-- Ultrasana - [P.O.C] Combining Osana And UV
-- Quartz - Crystal Network Assets Designed To Help You Make Unblockers
 - Zenos - Unblocked Browser Made With Unreal Engine??
 - Crystal Lite - Lightweight Debian OS That Runs Chrome Via x86
 ### In Concept
@@ -33,6 +31,8 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - Tabular - Hypertabs Clone
 - Megaindego - #1 Unblocker (real)
 - Ruby - The Offical Homepage For Crystal Network. Like Oxide
+- Ultrasana - [P.O.C] Combining Osana And UV
+- Quartz - Crystal Network Assets Designed To Help You Make Unblockers
 
 ## Members
 - [Scarat3k](https://github.com/scaratek) - Lead Developer and Owner
