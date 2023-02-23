@@ -37,11 +37,11 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 
 ## Members
 - [Scarat3k](https://github.com/scaratek) - Lead Developer and Owner
-  - [My Website :D](https://scatat3k.me)
+  - [My Website :D](https://scarat3k.me)
 - [Majikun](https://github.com/madjikdotpng) - Developer
   - [My Website :D](https://madjikware.tech)
 - [Ethonic](https://github.com/ethonicdev) - Developer
-  - [My Website :D](ethonic.ga)
+  - [My Website :D](https://ethonic.ga)
 - [Colacraft](https://github.com/co1acraft) - Developer
 - [Riftriot](https://github.com/riftriot) - Developer
 - [Nitelite](https://github.com/lappyxd) - UI/UX Designer
