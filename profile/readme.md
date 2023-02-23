@@ -9,8 +9,9 @@
 </div>
 
 ## About Us
-Crystal Network is a Unblocker development team with a goal to create easy to use, good looking, and good quality unblockers. 
-Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc...
+- Crystal Network is a Unblocker development team with a goal to create easy to use, good looking, and good quality unblockers. 
+- Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc...
+- We also have another service called [Crystal Network Dev Tools](https://github.com/crystalnetwork-devtools) which is a GH ORG with tools designed to help you make unblockers.
 
 ## Links
 Here Are Some Demo Links To Try Out Some Of Are Products
@@ -31,8 +32,6 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - Tabular - Hypertabs Clone
 - Megaindego - #1 Unblocker (real)
 - Ruby - The Offical Homepage For Crystal Network. Like Oxide
-- Ultrasana - [P.O.C] Combining Osana And UV
-- Quartz - Crystal Network Assets Designed To Help You Make Unblockers
 
 ## Members
 - [Scarat3k](https://github.com/scaratek) - Lead Developer and Owner
