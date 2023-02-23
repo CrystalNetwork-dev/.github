@@ -32,6 +32,8 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - Tabular - Hypertabs Clone
 - Megaindego - #1 Unblocker (real)
 - Ruby - The Offical Homepage For Crystal Network. Like Oxide
+- Skyhigh - Yet Another TompHTTP Webproxy
+- Reflection - A Webproxy Made With The Areo SDK
 
 ## Members
 - [Scarat3k](https://github.com/scaratek) - Lead Developer and Owner
