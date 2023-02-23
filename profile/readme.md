@@ -43,5 +43,5 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - [Ethonic](https://github.com/ethonicdev) - Developer
   - [My Website :D](https://ethonic.ga)
 - [Colacraft](https://github.com/co1acraft) - Developer
-- [Riftriot](https://github.com/riftriot) - Developer
+- [Riftriot](https://github.com/slushzies) - Developer
 - [Nitelite](https://github.com/lappyxd) - UI/UX Designer
