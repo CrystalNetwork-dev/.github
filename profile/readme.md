@@ -29,7 +29,7 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - Ruby - The Offical Homepage For Crystal Network. Like Oxide
 ### In Concept
 - Proxifly - Top Tier Unblocker
-- Jemity - Gfiles With UI
+- Jemity - Jemity Assets But It As A UI
 - Tabular - Hypertabs Clone
 - Skyhigh - Yet Another TompHTTP Webproxy
 - Reflection - A Webproxy Made With The Areo SDK
