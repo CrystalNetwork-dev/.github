@@ -21,7 +21,7 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 
 ## Projects
 ### Finished
-- N/a
+- Pwrusr - Cool Browser Thing
 ### In Development
 - Termite - A Webproxy But In A Terminal So Skids Cant Use
 - Zenos - Unblocked Browser Made With Unreal Engine??
