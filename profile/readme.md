@@ -22,10 +22,10 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 ## Projects
 ### Finished
 - Pwrusr - Cool Browser Thing
+- Crystal Lite - Lightweight Linux OS That Runs Chrome Via x86
 ### In Development
 - Termite - A Webproxy But In A Terminal So Skids Cant Use
 - Zenos - Unblocked Browser Made With Unreal Engine??
-- Crystal Lite - Lightweight Debian OS That Runs Chrome Via x86
 - Ruby - The Offical Homepage For Crystal Network. Like Oxide
 ### In Concept
 - Proxifly - Top Tier Unblocker
