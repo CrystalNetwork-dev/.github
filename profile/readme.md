@@ -36,8 +36,6 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - Crystal-Proxis - A Fork Of [Proxis](https://github.com/crystalnetwork-devtools/proxis) With Skyhigh And Reflection
 
 ## Members
-- [Scarat3k](https://github.com/scaratek) - Lead Developer and Owner
-  - [My Website :D](https://scarat3k.me)
 - [Majikun](https://github.com/madjikdotpng) - Developer
   - [My Website :D](https://madjikware.tech)
 - [Ethonic](https://github.com/ethonicdev) - Developer
