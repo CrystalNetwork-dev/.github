@@ -1,5 +1,5 @@
 <div align="center">
-<img height="350px" src="https://raw.githubusercontent.com/CrystalNetwork-dev/.github/main/profile/crystal_networktest%20(1).png">
+<img height="200px" src="https://raw.githubusercontent.com/CrystalNetwork-dev/.github/main/profile/crystal_networktest%20(1).png">
 </div>
 
 <div align="center">
@@ -9,24 +9,15 @@
 </div>
 
 ## About Us
-- Crystal Network is a Unblocker development team with a goal to create easy to use, good looking, and good quality unblockers. 
-- Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc...
-- We also have another service called [Crystal Network Dev Tools](https://github.com/crystalnetwork-devtools) which is a GH ORG with tools designed to help you make unblockers.
-
-## Links
-Here Are Some Demo Links To Try Out Some Of Are Products
-- [N/A] https://ilymajikun.live - Proxifly
-- [N/A] https://crystalnetworkis.live - Termite
-- [N/A] https://crystalnetwork.me - Ruby
+Crystal Network is a development team focused on creating unique software for the web. 
+Crystal Network is similar to projects like Nebula Developer Labs, TN, etc etc... We were originally created almost a year ago, and plan to continue making software in the future.
 
 ## Projects
-### Finished
+### Legacy Projects (may or may not exist.
 - Pwrusr - Cool Browser Thing
 - Crystal Lite - Lightweight Linux OS That Runs Chrome Via x86
-### In Development
 - Termite - A Webproxy But In A Terminal So Skids Cant Use
-- Zenos - Unblocked Browser Made With Unreal Engine??
-- Ruby - The Offical Homepage For Crystal Network. Like Oxide
+- 
 ### In Concept
 - Proxifly - Top Tier Unblocker
 - Jemity - Jemity Assets But It As A UI
@@ -36,11 +27,9 @@ Here Are Some Demo Links To Try Out Some Of Are Products
 - Crystal-Proxis - A Fork Of [Proxis](https://github.com/crystalnetwork-devtools/proxis) With Skyhigh And Reflection
 
 ## Members
-- [Majikun](https://github.com/madjikdotpng) - Developer
-  - [My Website :D](https://madjikware.tech)
+- [Riftriot](https://github.com/rifting) - Owner
+- [Majikun](https://github.com/madjikdotpng) - Owner
+- [Scaratek](https://github.com/scaratek) - Lead Developer
 - [Ethonic](https://github.com/ethonicdev) - Developer
-  - [My Website :D](https://ethonic.ga)
 - [Colacraft](https://github.com/co1acraft) - Developer
-- [Riftriot](https://github.com/slushzies) - Developer
 - [Nitelite](https://github.com/lappyxd) - UI/UX Designer
-###### Sneej - Cool
